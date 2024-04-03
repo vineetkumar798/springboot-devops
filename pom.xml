@@ -14,7 +14,7 @@
 	<name>Jenkins Git Download Application</name>
 	<description>A Spring Boot application to demonstrate downloading code from Git using Jenkins</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
